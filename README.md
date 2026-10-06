@@ -31,9 +31,14 @@ Being blocked is not the failure. Going quiet about it is. Open questions live i
 
 ## Files
 
-- `00-operating-brief.md` — the map: people, channels, how he works, where this is going
+- `00-operating-brief.md` — the map: people, channels, time zones, how he works, where this is going
 - `01-guardrails.md` — the three rules as working procedures, with ready-to-send language
-- `02-tracker.md` — what's in flight, who has it, what's due, who hasn't replied
+- `02-system-map.md` — what already exists in Notion, what the gaps are, and what is next
 - `03-note-templates.md` — start-of-day and end-of-day formats, and the time-saved method
-- `04-open-questions.md` — what I've asked for and haven't got
+- `04-open-questions.md` — what I need from you that I haven't got
 - `daily/` — the sent notes, one file per day
+
+**The live system is in Notion**, not here: Eyeball Factory OPS → Creatives → Core Pipeline for
+the work, and Decisions & Blockers → Open Decisions for what is waiting on a person. This repo is
+the working layer: how I do the job, not the state of the job. `02-system-map.md` has the full
+picture.

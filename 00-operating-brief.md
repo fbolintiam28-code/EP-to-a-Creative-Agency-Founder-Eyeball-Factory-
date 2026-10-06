@@ -1,6 +1,6 @@
 # Operating Brief — Eyeball Factory
 
-Last updated: 2026-10-06 (day 1). This is my working map of how the business runs. It is built
+Last updated: 2026-10-06 (day 1), after reading the Notion workspace. This is my working map of how the business runs. It is built
 from Shabir's own framing and will be wrong in places — corrections welcome and expected.
 
 ## The business
@@ -45,6 +45,25 @@ What this means for me, concretely:
    open-ended is genuinely the only honest framing.
 4. **Age my open asks.** If a decision has been pending three days, that fact goes in front of
    him, not into a quiet corner.
+
+## Time zones
+
+He is in **Dubai (UTC+4)**. I am in the **Philippines (UTC+8)** — I am 4 hours ahead of him.
+
+| My deadline | Lands for him |
+|---|---|
+| Start-of-day note, 2:20 PM PH | **10:20 AM** Dubai — his mid-morning |
+| End-of-day message, 6:00 PM PH | **2:00 PM** Dubai — his early afternoon |
+
+Both land inside his working day, so the cadence works as set. Worth knowing that what I call
+"end of day" is his early afternoon: the note is not a sign-off he reads in the evening, it is a
+mid-afternoon briefing he can still act on. That is an advantage — a question I put in the 6:00 PM
+note can come back the same working day.
+
+**When he is in the US this breaks.** 6:00 PM PH is 6:00 AM in New York and 3:00 AM in Los
+Angeles; 2:20 PM PH is the middle of the night either way. Both notes would land while he is
+asleep and be buried by the time he wakes. Logged as a decision for him rather than something I
+quietly reschedule — see Open Decisions in Notion.
 
 ## What he does today that I am taking over
 

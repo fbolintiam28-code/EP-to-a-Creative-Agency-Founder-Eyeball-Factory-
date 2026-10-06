@@ -1,33 +1,52 @@
 # Open questions
 
-Logged, aged, and surfaced rather than worked around. Oldest unanswered items go in front of
-whoever can answer them.
+Logged, aged, and surfaced rather than worked around.
 
-Owner key: **You** = the Exec Ops Assistant · **S** = Shabir · **K** = Kayhan · **Team** = role holders
-
----
-
-## Blocking — the job doesn't run without these
-
-| # | Question | Why it blocks | Owner | Asked | Status |
-|---|---|---|---|---|---|
-| 1 | **What is actually in flight right now?** Clients, deliverables, owners, due dates, current versions. | The tracker has no rows. Without the live work there is no tracker, and "he's reading, not chasing" can't be delivered — there's nothing to read. | You / S | 2026-10-06 | open |
-| 2 | **How does the work reach me?** Do I read the Slack channels, WhatsApp and the Care & Bloom email thread directly, or do you forward and paste? | Decides whether I can spot "who hasn't replied" myself or only track what I'm handed. It's the difference between running the follow-up loop and transcribing it. | You | 2026-10-06 | open |
-| 3 | **Which timezone are the 2:20 PM and 6:00 PM deadlines in — and is Shabir in that zone right now or in the US?** | A 6:00 PM note that lands at 3:00 AM his time isn't an end-of-day message. His hours shift when he's in the US, and the note has to land when he'll actually read it. | You | 2026-10-06 | open |
-| 4 | **Where should the tracker live for month one?** A Notion connection is available in this session. Markdown here works for me; it doesn't work for Shabir on a phone or the team in Slack. | He has to be able to open it in one tap, and the team has to update it where they already work. Markdown in a repo fails both. | You / S | 2026-10-06 | open |
-
-## Needed soon — not blocking today
-
-| # | Question | Why it matters | Owner | Asked | Status |
-|---|---|---|---|---|---|
-| 5 | **Real names** for Editor 1, Editor 2, Creative Strategist, Media Buyer, Community Manager, Client Contact 1. | Placeholders are fine in my notes; they're not fine in anything addressed to a person. | You | 2026-10-06 | open |
-| 6 | **Where do the files live** — Drive, Dropbox, Frame.io, somewhere else — and is there a version naming convention? | Rule 3 is "check the version before you forward." I can't check a version against a convention that doesn't exist, and inventing one unilaterally would break what the editors already do. | You / Team | 2026-10-06 | open |
-| 7 | **Care & Bloom scope and cadence** — what's contracted, what's the review rhythm, who signs off on their side. | The largest named client. Knowing their rhythm is what lets me get ahead of their asks instead of reacting. | S | 2026-10-06 | open |
-| 8 | **What does Kayhan need from me?** He'll send me things too, and he runs the creator side independently. | Avoids me optimising the paid-video side while the creator side still runs on Shabir's memory. | K | 2026-10-06 | open |
-| 9 | **Has the team been told I exist, and what I'm taking over?** | If the editors don't know to answer me, every chase I send is a chase Shabir still has to make. This single answer decides whether the follow-up loop works at all. | S | 2026-10-06 | open |
+**Note on where these live now:** decisions that belong to Shabir, Kayhan or the Media Buyer have
+moved into the **Open Decisions** database in Notion, where they are aged and routed. This file
+keeps only what I need from *you* — the Exec Ops Assistant — to do the job.
 
 ---
+
+## Blocking
+
+| # | Question | Why it blocks | Status |
+|---|---|---|---|
+| 1 | **What is actually in flight right now?** Clients, creative IDs, deliverables, owners, current status, versions, need-by dates. | Core Pipeline has the schema but no rows. "Three days of reading, not chasing" needs something to read. This is now the single biggest blocker — everything else is built or logged. | **open** |
+
+A fill-in format for Q1, so dumping it is fast — one line per creative, anything unknown left blank:
+
+```
+Creative ID | Client | Angle | Status (1-13) | Current owner | Version | Need-by | Blocked on
+CB-09       | Care & Bloom | Testimonial | 6 In Edit | Editor 1 | v2 | Oct 9 | —
+```
+
+Rough is fine. I would rather have eight half-known rows than wait for a clean list — blanks
+become chases, which is the job.
 
 ## Answered
 
-*(nothing yet)*
+| # | Question | Answer |
+|---|---|---|
+| 2 | How does the work reach me? | **Mix.** WhatsApp pasted by you; Slack, email and Notion connected. |
+| 3 | Timezone for the daily deadlines? | **Shabir in Dubai (UTC+4), me in PH (UTC+8).** SOD 2:20 PM PH = 10:20 AM Dubai. EOD 6:00 PM PH = 2:00 PM Dubai. Both land inside his working day. The US case is logged as a decision for him. |
+| 4 | Where should the tracker live? | **Notion.** Already exists — Eyeball Factory OPS → Creatives → Core Pipeline. Not rebuilt. |
+| 6 | File naming and version convention? | **Answered by SOP §7.** Creative ID `[ClientCode]-[##]` e.g. `CB-09`. File `CB-09_[Angle]_[Length]_v[#]` e.g. `CB-09_Testimonial_90s_v2`. Folder structure 01 Script+Brief → 05 Uploaded. Card is the source of truth; always link, never attach; never overwrite. |
+
+## Still needed, not blocking today
+
+| # | Question | Why it matters | Status |
+|---|---|---|---|
+| 5 | **Real names** for Editor 1, Editor 2, Strategist, Media Buyer, Community Manager, Client Contact 1. | Placeholders are fine in my notes, not in anything addressed to a person. | open |
+| 6b | **Where do the files actually live** — Drive, Dropbox, Frame.io? SOP §7 defines the folder structure but not the host. | I cannot verify a version before forwarding without access to wherever the cuts sit. Rule 3 depends on it. | open |
+| 7 | **Care & Bloom scope and cadence** — what is contracted, review rhythm, who signs off their side. | Largest named client. Knowing the rhythm is what lets me get ahead of their asks. | open |
+| 8 | **What does Kayhan need from me?** | He runs the creator side and will send me things. SOP has him supplying creator-clip mapping, but nothing about what he needs back. | open |
+| 9 | **Which client codes exist** besides `CB` for Care & Bloom? | Creative IDs cannot be issued consistently without the code list. | open |
+
+---
+
+## Change log
+
+| Date | Change |
+|---|---|
+| 2026-10-06 | Created. Q2, Q3, Q4 answered. Q6 answered from SOP §7; Q6b opened for the file host. Decisions for Shabir / Media Buyer / Kayhan moved to Notion → Open Decisions. |

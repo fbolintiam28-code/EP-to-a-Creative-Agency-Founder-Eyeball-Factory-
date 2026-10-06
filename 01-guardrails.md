@@ -88,8 +88,23 @@ thread, and a client reviewing work that's already been fixed.
 **If version is unclear, I don't forward.** I ask. One question costs a minute; a client reviewing
 a superseded cut costs Shabir a conversation he shouldn't have to have.
 
-**Naming convention:** to be agreed — see `04-open-questions.md`. Until then I record whatever
-marker the file actually carries, verbatim, rather than inventing one.
+**Naming convention — already defined, in SOP §7:**
+
+- **Creative ID:** `[ClientCode]-[##]`, e.g. `CB-09`
+- **File name:** `CB-09_[Angle]_[Length]_v[#]`, e.g. `CB-09_Testimonial_90s_v2`
+- **Folder per creative:** `01 Script + Brief` · `02 Assets` · `03 Edits (v1, v2, …)` ·
+  `04 Final` · `05 Uploaded`
+
+And the SOP's own version rules, which are the operational form of this guardrail:
+
+1. **The card is the source of truth** for which version is current. Always link, never attach.
+2. Check the version before forwarding any file.
+3. **Never overwrite a file.** Save as a new version.
+4. **"Same folder as the scripts" is not a handoff.** Always send a direct link.
+
+So the convention exists and I follow it rather than inventing one. What is still missing is
+*where the files are hosted* — the folder structure is defined, the drive is not named. I cannot
+verify a version in a system I cannot open, so that is logged as an open question.
 
 ---
 
