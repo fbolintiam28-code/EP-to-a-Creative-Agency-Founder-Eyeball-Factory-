@@ -95,7 +95,9 @@ Two clients can both have a `Testimonial` token; they are `CB-A03` and `XX-A01`.
 
 ## Part 4 — Batches
 
-### First, a defect worth fixing before naming anything
+### The defect — now fixed
+
+*Applied 2026-10-06. Kept here because the reasoning still explains the shape of the fix.*
 
 Core Pipeline's `Need-by` is a **rollup that targets the Batches title property**. So whatever a
 batch is called is literally what appears in the `Need-by` column on every creative card. Today,
@@ -105,14 +107,20 @@ Compounding it: **Batches currently has no properties at all** — just `Name`. 
 a batch request carries a need-by date, a quantity and priority angles. None of those exist as fields,
 so none can be rolled up, filtered or sorted, and the `Current Batch` view has nothing to key on.
 
-**Two fixes, in this order:**
+**Both fixes are now applied:**
 
-1. Give Batches real properties: `Need-by` (date), `Quantity` (number), `Priority Angles`
-   (relation → Angles & Hypotheses), `Requested By` (person), `Status`, `Requested On` (date).
-2. Repoint the Core Pipeline `Need-by` rollup at the new `Need-by` **date** property instead of the
-   title. Then it returns an actual date — sortable, filterable, and usable in a "due this week" view.
+1. Batches has seven properties: `Need-by` (date), `Quantity` (number), `Priority Angles`
+   (two-way relation → Angles & Hypotheses), `Status`, `Requested By` (person), `Requested On`
+   (date), `Performance Context` (text, for the one or two lines of results context the Next Batch
+   Request template asks for).
+2. The Core Pipeline `Need-by` rollup now targets the `Need-by` **date** property rather than the
+   Batches title. It returns a real date — sortable, filterable, and usable in a "due this week"
+   view. Verified: the rollup reports `targetPropertyType: date`.
 
-Naming cannot fix a rollup pointed at the wrong property. Do these first.
+`Status` on Batches uses `Acknowledged` to mean the strategist has seen the request and confirmed
+the need-by is feasible, which is SOP Stage 0's exit condition — *"the batch exists with a need-by
+date and the strategist has acknowledged it."* Without that state there is no way to tell a request
+that has been seen from one nobody has read.
 
 ### Then, the naming
 
@@ -174,11 +182,39 @@ of rule 3.
 
 ---
 
-## Smaller cleanup spotted
+## Property naming — a conflict with the SOP
 
-Core Pipeline has a property literally called **`Select`**, holding Plan / Review / Make / Ship /
-Learn. That is the SOP's phase grouping with a default property name never changed. Rename it to
-**`Phase`** — it is one edit and it stops the column header reading like a leftover.
+**Correcting my earlier suggestion.** I had proposed renaming `Select` to `Phase`. That name is now
+taken: the 13-stage property, previously called `Status`, has been renamed to `Phase`. So Core
+Pipeline currently reads:
+
+| Property | Holds | SOP calls this |
+|---|---|---|
+| `Phase` | 1 Hypothesis … 13 Analyzed | **Status** |
+| `Select` | Plan / Review / Make / Ship / Learn | **Phase** |
+
+The two names are swapped relative to SOP §4, whose table is laid out `Phase | Status | Ball with |
+Moves on when` — where **Plan / Review / Make / Ship / Learn are the phases** and the thirteen
+numbered items are the statuses.
+
+**Why this matters more than tidiness.** The SOP is the document the team reads and is onboarded
+from. If it says "set status to 3 Copy Review" and the database calls that field Phase, every
+handover instruction needs mental translation, and the people most likely to get it wrong are the
+ones newest to the system. One of the two has to move.
+
+**Recommended:** rename in the database rather than edit the SOP — the SOP's vocabulary came from
+Shabir and is already written into eight templates.
+
+```
+Phase   →  Status     (the 13 stages)
+Select  →  Phase      (Plan / Review / Make / Ship / Learn)
+```
+
+Both renames are safe: Notion keeps every value and view when a property is renamed. Do them in that
+order so the name `Phase` is free before it is reused.
+
+Not applied — the rename to `Phase` looked deliberate, so this is a recommendation rather than
+something to undo without asking.
 
 ---
 
