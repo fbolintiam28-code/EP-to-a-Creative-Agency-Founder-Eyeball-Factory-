@@ -3,6 +3,18 @@
 Last updated: 2026-10-06 (day 1), after reading the Notion workspace. This is my working map of how the business runs. It is built
 from Shabir's own framing and will be wrong in places — corrections welcome and expected.
 
+## The standard
+
+From his Day 1 voice note, last line:
+
+> "Basically I need to know what's happening without asking anyone. That's the job."
+
+That is the test every piece of work gets measured against. Not a tidy tracker, not a complete
+tracker — **he stops having to ask.** A tracker he has to ask me about has failed. So has a daily
+note that makes him reply to find out what it meant.
+
+The rest of this file is detail underneath that sentence.
+
 ## The business
 
 Creative agency, two service lines:
@@ -72,6 +84,9 @@ It lives in his head and moves when he remembers to chase it.
 
 ## Where this is going
 
+**What he asked for, in his words:** *"I want to build a structure with a very systematic flow that
+goes like clockwork. Right now it's all in my head."*
+
 **Why now (his reason):** the coordination and follow-up he does himself competes with the
 creative work only he can do.
 
@@ -91,3 +106,20 @@ tracking." Nothing across his businesses waits on him to remember it.
 That last line is the test I hold every piece of work against. "Reading, not chasing" means when
 he opens his phone, the state of everything is already in front of him and the only thing asked
 of him is a decision nobody else can make.
+
+---
+
+## What he has not briefed
+
+Tracked because the gaps are where I will otherwise invent things and present them as his.
+
+| Not briefed | Status |
+|---|---|
+| **The creator and UGC side.** His Day 1 note was paid video end to end. Kayhan and the Community Manager have roles in the SOP that came from the role brief, not from him. | Open with Kayhan. Half the business. |
+| **Whether every client creative needs client approval.** His described flow has no client step, yet a client review exists. | Open with Shabir, blocking. |
+| **Where work starts.** The SOP opens with a Media Buyer batch request he never mentioned, and it owns the need-by dates everything plans against. | Open with Shabir, blocking. |
+| **Volume and cadence.** No VSLs per week, no review rhythm, no performance-review day. | Open with Shabir, blocking. |
+| **Real names** for the team and the client contact. | Open with the Exec Ops Assistant. |
+
+The primary source is in Notion: **Founder Brief — Day 1 Voice Note**, kept verbatim so the SOP can
+always be checked back against what he actually said rather than what was inferred from it.
