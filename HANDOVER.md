@@ -7,56 +7,47 @@ Written so somebody who was not here can pick this up on Monday.
 ## 0. The final message to Shabir
 
 Not a status report — the end-of-day wrap carries that. This is the alignment message: what he
-needs, what I hold, what stays his, and what arrives daily.
-
-Formatted for a phone. Single asterisks render as bold in both WhatsApp and Slack.
+needs, what I hold, what stays his, what arrives daily, and the one thing only he can do.
 
 ```
-*Shabir* — end of the three days. This one's about how we work, not what's
-in the tracker.
+Shabir — end of the three days. This one's about how we work rather than
+what's in the tracker.
 
-*What you need*
-You run across all of it. You work in sprints, not systems, and the
-coordination eats the time only you can spend on the creative. You don't
-want to chase. You want to open your phone and already know.
+Here's what I think you need. You run across all of it, you work in
+sprints rather than systems, and the coordination eats the time only you
+can spend on the creative. You don't want to chase anyone. You want to
+pick up your phone and already know.
 
-*What I'll hold*
-The follow-up. Who has what, who hasn't replied, what's due when.
+So that's what I'll hold — the follow-up. Who has what, who hasn't
+replied, what's due when. What stays yours is the reviewing, the client
+calls, and the dates and rates. I won't take those or guess at them.
 
-*What stays yours*
-Reviewing. Client calls. Dates and rates. I won't take them or guess at
-them.
+Day to day you'll get two things from me. A short note when I start, on
+what I'm working and what I need from you. And one at the end, on what
+moved, what needs you — numbered so you can answer in a voice note — plus
+one thing I'd take off your plate, with the hours it saves and how I got
+to the number.
 
-*What you'll get, every day*
-• Morning — what I'm on, and what I need from you
-• End of day — what moved, what needs you (numbered, voice-note
-  answerable), and one thing I'd take off you with the hours it saves
+I'll work around how you actually work. You reply in bursts, so I'll batch
+rather than drip-feed you. Your silence means you assume something's
+handled, so I'll never read it as a yes, and I'll tell you how long
+something's been sitting. I won't block on you either — if you're quiet,
+everything keeps moving except the things that genuinely can't. And
+nothing reaches a client without your OK, with no date or rate going out
+in your name.
 
-*How I'll work around how you work*
-• You reply in bursts, so I batch rather than drip
-• Your silence means you assume it's handled — I'll never read it as a
-  yes, and I'll tell you how long something's been sitting
-• I won't block on you. If you're quiet, everything keeps moving except
-  what genuinely can't
-• Nothing reaches a client without your OK, and no date or rate goes out
-  in your name
-
-*What I need from you*
-Direct feedback, fast. You're blunt — that works, and I'll be the same
-back.
-
-And one line to the team saying I'm running coordination now. Until they
-know that, it all still routes through you.
+Two things from you. Direct feedback, fast — you're blunt, that works for
+me, and I'll be the same back. And one line to the team saying I'm running
+coordination now. Until they know that, it all still routes through you.
 ```
 
 **Why it is shaped this way.** He never asked for a progress report; he asked for a structure that
 runs like clockwork and for the chasing to stop reaching him. So it answers the relationship rather
 than the week.
 
-Two formatting choices earn their place. **"What I'll hold" and "what stays yours" are separate
-blocks** — the boundary is the point, and an EA who quietly absorbs a founder's judgment calls
-creates a different problem from the one being solved. And **the two lists are bullets, not prose**,
-because he reads on a phone in bursts and a paragraph gets skimmed where a bullet gets read.
+The boundary between what I hold and what stays his sits in its own paragraph, because that
+distinction is the substance — an assistant who quietly absorbs a founder's judgment calls creates a
+different problem from the one being solved.
 
 It ends on a single ask rather than a sign-off, because a message with no clear ask gets no reply
 from someone who answers in bursts.
