@@ -6,50 +6,60 @@ Written so somebody who was not here can pick this up on Monday.
 
 ## 0. The final message to Shabir
 
-Not a status report — the end-of-day wrap carries that, and the tracker carries the work. This is
-the alignment message: what he needs, how I will work given how he works, and what he gets from me.
+Not a status report — the end-of-day wrap carries that. This is the alignment message: what he
+needs, what I hold, what stays his, and what arrives daily.
+
+Formatted for a phone. Single asterisks render as bold in both WhatsApp and Slack.
 
 ```
-Shabir — end of the three days. This one's about how we work, not what's
+*Shabir* — end of the three days. This one's about how we work, not what's
 in the tracker.
 
-What I think you need.
+*What you need*
 You run across all of it. You work in sprints, not systems, and the
 coordination eats the time only you can spend on the creative. You don't
-want to chase anyone. You want to pick up your phone and already know.
+want to chase. You want to open your phone and already know.
 
-So that's what I'll hold.
-The follow-up. Who has what, who hasn't replied, what's due when. You keep
-the reviewing, the client calls, and the dates and rates — those are
-yours, and I won't take them or guess at them.
+*What I'll hold*
+The follow-up. Who has what, who hasn't replied, what's due when.
 
-What you'll get, daily.
-A short note when I start: what I'm on, what I need from you. One at the
-end: what moved, what needs you — numbered, answerable in a voice note —
-and one thing I'd take off you, with the hours it saves and how I got to
-the number.
+*What stays yours*
+Reviewing. Client calls. Dates and rates. I won't take them or guess at
+them.
 
-How I'll work around how you work.
-You're in and out and reply in bursts, so I'll batch rather than drip.
-Your silence means you assume it's handled, so I'll never read it as a
-yes — and I'll tell you how long something's been sitting.
-I won't block on you. If you're quiet, everything keeps moving except what
-genuinely can't.
-Nothing reaches a client without your OK, and I won't put a date or a rate
-in your name.
+*What you'll get, every day*
+• Morning — what I'm on, and what I need from you
+• End of day — what moved, what needs you (numbered, voice-note
+  answerable), and one thing I'd take off you with the hours it saves
 
-What I need from you.
-Direct feedback, fast. You're blunt — that works for me, and I'll be the
-same back.
+*How I'll work around how you work*
+• You reply in bursts, so I batch rather than drip
+• Your silence means you assume it's handled — I'll never read it as a
+  yes, and I'll tell you how long something's been sitting
+• I won't block on you. If you're quiet, everything keeps moving except
+  what genuinely can't
+• Nothing reaches a client without your OK, and no date or rate goes out
+  in your name
+
+*What I need from you*
+Direct feedback, fast. You're blunt — that works, and I'll be the same
+back.
+
 And one line to the team saying I'm running coordination now. Until they
 know that, it all still routes through you.
 ```
 
-**Why it is shaped this way.** He never asked for a progress report; he asked for a system and for
-the chasing to stop reaching him. So the message answers the relationship, not the week: what I
-believe he needs, what I am taking, what stays his, what arrives each day, and the one thing only he
-can do. It ends on an ask rather than a flourish because he replies in bursts and a message with no
-clear ask gets no reply.
+**Why it is shaped this way.** He never asked for a progress report; he asked for a structure that
+runs like clockwork and for the chasing to stop reaching him. So it answers the relationship rather
+than the week.
+
+Two formatting choices earn their place. **"What I'll hold" and "what stays yours" are separate
+blocks** — the boundary is the point, and an EA who quietly absorbs a founder's judgment calls
+creates a different problem from the one being solved. And **the two lists are bullets, not prose**,
+because he reads on a phone in bursts and a paragraph gets skimmed where a bullet gets read.
+
+It ends on a single ask rather than a sign-off, because a message with no clear ask gets no reply
+from someone who answers in bursts.
 
 
 ---
