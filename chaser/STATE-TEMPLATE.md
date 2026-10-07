@@ -4,35 +4,39 @@ Copy this, fill it from Notion, paste it above the batch. Leave a cell blank if 
 blank — never fill a gap with a guess, because the Chaser treats what you write as fact.
 
 ```
-## STATE
+## STATE   (refreshed 2026-10-07)
 
 ### Core Pipeline
-ID | Client | Status | Current owner | Next action | Blocked | Blocker | Need-by | Editor ETA | Version | Days in stage
-CB-07 | Care & Bloom | 9 Final Approved | — | Media Buyer to confirm: live, queued, or never received | No | Approved per Strategist (Mon) only. Not confirmed what was approved or by whom | — | — | — | —
-CB-09 | Care & Bloom | 7 Edit Review | — | Shabir reviews the first cut (link sent Oct 6) | No | Script never went through Copy Review. Shabir's edit review is the only claims check before client | — | — | — | —
-CB-10 | Care & Bloom | 6 In Edit | — | Kayhan to write the hook line (asked Oct 6), reviewed by Shabir before use | Yes | Hook line from Strategist. Strategist silent since Fri | — | 2026-10-09 | — | —
-CB-11 | Care & Bloom | 6 In Edit | — | Editor 1 to confirm the script filename/version he is cutting from | No | Shabir go-ahead Oct 5, "if it's written it's probably fine, don't hold it up." Not a formal approval | — | 2026-10-09 | — | —
+ID | Client | Status | Current owner | Next action | Blocked | Blocker | Need-by | Version
+CB-09 | Care & Bloom | 12 Live | Media Buyer | Shabir to decide: let it run or pause for a claims check | Yes | Live since Fri with no recorded Copy Review - the only claims check in its path. Also carries the placeholder font | - | placeholder font build
+CB-10 | Care & Bloom | 6 In Edit | Strategist / Kayhan | Hook LINE still unwritten. Kayhan asked 6 Oct, no reply | Yes | Second week blocked on the same line. Separate from Editor 2's on-screen hooks | - | -
+CB-11 | Care & Bloom | 6 In Edit | Editor 1 | Confirm where it landed and which script version | No | Orphaned - not mentioned once in the 7 Oct batch | - | -
+CB-12 | Care & Bloom | 8 Edit Revisions | Editor 1 | Redoing the hook. Confirm who returned the revisions | No | Revisions "came back" with no reviewer named | 2026-10-13 | -
+CB-13 | Care & Bloom | 5 Approved Script | Strategist | Paste the direct link. Then Shabir: hold the weekend or move | Yes | "same folder as cb-12" - second week the same handoff has failed | 2026-10-13 | -
+
+### Batches
+CB-B01 - 13 Oct | qty 2 | In production | testimonial direction | Media Buyer re-asked for a date 7 Oct, unresolved
+
+### Angles & Hypotheses
+CB-A01 Testimonial | Winner | carrying CB-09 to CB-13
+CB-A02 FounderStory | Loser | "the founder-story one isn't" working
 
 ### Creator Deliveries
-ID | Creator | Client | Status | Current owner | Days since delivered | Payment status | Creator told
-(none yet — pipeline built, rows pending the drive audit)
+Thursday group call - 4 clips | Care & Bloom | 5 Usability review | owner NOBODY | not reviewed | creator not told
+Backlog - unlogged drive footage | Care & Bloom | Parked | Kayhan | quantity unknown
+
+### Creators
+Unnamed creator - September invoice | Active | Kayhan | waiting to hear when they are paid
+
+### Creator Briefs
+Care & Bloom - Thursday group call - Oct | Group call | Content coming in | nothing recorded about what was briefed
 
 ### Open Decisions
-Decision | Answer owner | Asked | Age | State
-Team cannot access the tracker | Shabir | — | — | Open
-Named reviewer fallback when Shabir is out | Shabir | — | — | Open
-Owner of Stage 5 Edit Review | Shabir | — | — | Open
-Weekly performance review day and time | Shabir | — | — | Open
-Care & Bloom review date this week | Shabir | — | — | Open
-Team not yet told about the Ops Assistant role | Shabir | — | — | Open
-Which creatives go to a client at all | Shabir | — | — | Open
-Whether Stage 0 batch requests are real | Shabir | — | — | Open
-Care & Bloom prohibited claims list | Shabir | — | — | Open
-Who decides if delivered creator content is usable | Kayhan | — | — | Open
-Where Kayhan keeps the creator list | Kayhan | — | — | Open
-Who handles creator payments | Kayhan | — | — | Open
-Monday group briefing call | Kayhan | — | — | Open
-Meta deliverable specs for cuts | Media Buyer | — | — | Open
+18 rows. 11 Blocking now, 7 Needed this week, 1 Answered.
+Blocking: CB-09 claims check / CB-13 hold or move / handoff rule / which three Autumn videos /
+team Notion access / team not told the role exists / Care & Bloom claims list / creator usability
+owner / Kayhan's creator list / which creator is owed September / Editor 2 invoice / display font.
+Pull the live list from Notion before each run rather than copying this.
 ```
 
 The four Core Pipeline rows above are real as of 2026-10-06. Refresh them before each run —
