@@ -6,51 +6,51 @@ Written so somebody who was not here can pick this up on Monday.
 
 ## 0. The final message to Shabir
 
-Answering what he asked for in his two voice notes, rather than listing what was done — the
-end-of-day wrap carries that.
+Not a status report — the end-of-day wrap carries that, and the tracker carries the work. This is
+the alignment message: what he needs, how I will work given how he works, and what he gets from me.
 
 ```
-Shabir — end of the three days. Answering what you asked for rather than
-listing what I did.
+Shabir — end of the three days. This one's about how we work, not what's
+in the tracker.
 
-"I need to know what's happening without asking anyone."
-You can, for the paid side. One page, both lines, every creative with one
-owner and a next action.
+What I think you need.
+You run across all of it. You work in sprints, not systems, and the
+coordination eats the time only you can spend on the creative. You don't
+want to chase anyone. You want to pick up your phone and already know.
 
-It's already earning it. Two things surfaced this week that nobody knew.
-CB-11 hasn't been mentioned by anyone in seven days and has no owner — and
-it's one of the three we promised Care & Bloom. And CB-09 went live without
-a copy review, which was the only claims check in its path, on a health
-brand. Neither would have come up by asking around.
+So that's what I'll hold.
+The follow-up. Who has what, who hasn't replied, what's due when. You keep
+the reviewing, the client calls, and the dates and rates — those are
+yours, and I won't take them or guess at them.
 
-"A structure that goes like clockwork. Right now it's all in my head."
-Both voice notes are written up as process now, with every default I had to
-guess at marked as yours to confirm rather than quietly assumed.
+What you'll get, daily.
+A short note when I start: what I'm on, what I need from you. One at the
+end: what moved, what needs you — numbered, answerable in a voice note —
+and one thing I'd take off you, with the hours it saves and how I got to
+the number.
 
-Clearest proof it was never an effort problem: the brand font. Editor 1 has
-had it installed the whole time — off an old project folder, never filed
-anywhere. Editor 2 sat idle two and a half weeks waiting for it. One
-question found it in half an hour.
+How I'll work around how you work.
+You're in and out and reply in bursts, so I'll batch rather than drip.
+Your silence means you assume it's handled, so I'll never read it as a
+yes — and I'll tell you how long something's been sitting.
+I won't block on you. If you're quiet, everything keeps moving except what
+genuinely can't.
+Nothing reaches a client without your OK, and I won't put a date or a rate
+in your name.
 
-The creator side — "I don't want a creator chasing Kayhan or me."
-Maya is chasing. £300 for two September pieces, past due. She's tracked now
-instead of living in a WhatsApp thread. The rest of the roster is still
-only with Kayhan, so that side is half-mapped.
-
-What isn't true yet.
-"Nothing waits on you" isn't honest while the team can't open the tracker
-and nobody's told them I'm running coordination. One line from you fixes
-half of it.
-
-Three things need you: CB-11, CB-09 run-or-pause, and Maya's £300.
-
-Your three rules held all week. Nothing reached a client without your OK,
-and I put no date or rate in your name.
+What I need from you.
+Direct feedback, fast. You're blunt — that works for me, and I'll be the
+same back.
+And one line to the team saying I'm running coordination now. Until they
+know that, it all still routes through you.
 ```
 
-**Why it is shaped this way.** He reads on a phone, replies in bursts, and gives direct feedback. So
-it answers his own words back to him, says plainly what is not true yet, and ends with three things
-he can clear in one voice note. The task list lives in the end-of-day wrap, not here.
+**Why it is shaped this way.** He never asked for a progress report; he asked for a system and for
+the chasing to stop reaching him. So the message answers the relationship, not the week: what I
+believe he needs, what I am taking, what stays his, what arrives each day, and the one thing only he
+can do. It ends on an ask rather than a flourish because he replies in bursts and a message with no
+clear ask gets no reply.
+
 
 ---
 
